@@ -11,5 +11,5 @@ app.get('/', (req, res) => {
 
 
 app.listen(5000,function(){
-    console.log('server is hola running')
+    console.log('server is  running')
 })
